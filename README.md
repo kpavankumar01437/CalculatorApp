@@ -22,3 +22,17 @@ A simple and responsive calculator application built using HTML, CSS, and JavaSc
 5. Use "Clear" to reset the display.
 
 ## Project Structure
+Calculator/
+│── CALCULATOR.html
+│── CALCULATOR.css
+│── CALCULATOR.js
+│── README.md
+
+
+## Future Enhancements
+- Add scientific calculator features  
+- Keyboard input support  
+- Improved UI/UX design  
+
+## Author
+**K Pavan Kumar**
